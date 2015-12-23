@@ -1,6 +1,6 @@
 #!/bin/bash
 
-outFile="animeTitles.csv"
+outFile="animeTitles.tsv"
 curYear=`date +%Y`
 startYear=1960
 lastYear=$curYear
